@@ -1,2 +1,0 @@
-Dependencies for Project 'second', Target 'Target 1': (DO NOT MODIFY !)
-F (.\ex.asm)(0x5FFF8204)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\Philips" --list "ex.lst" --xref -o "ex.o")
